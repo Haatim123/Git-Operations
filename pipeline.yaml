@@ -1,0 +1,7 @@
+branches: 
+   includes: 
+      main, develop, feature 
+
+stages: 
+ stage:
+   steps:
