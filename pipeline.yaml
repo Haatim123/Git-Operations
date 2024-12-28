@@ -5,3 +5,4 @@ branches:
 stages: 
  stage:
    steps:
+    task : bash 
