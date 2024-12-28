@@ -6,3 +6,5 @@ stages:
  stage:
    steps:
     task : bash 
+    input: 
+      script| :
